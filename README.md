@@ -10,12 +10,6 @@
 
 Customer churn — when a customer stops using a company’s service — is a major concern across industries like telecom, banking, and e-commerce. This project uses a deep learning model (Artificial Neural Network) to predict customer churn based on historical data, enabling businesses to retain customers with timely interventions.
 
-## 📂 Project Structure
-
-├── data/ # Raw and processed datasets ├── notebooks/ # Jupyter notebooks for EDA and model building ├── models/ # Trained model files ├── src/ # Source code and utility scripts ├── README.md # Project documentation ├── requirements.txt # Python dependencies └── churn_predictor.py # Main script for training/prediction
-
----
-
 ## 📊 Dataset
 
 - Source: Public dataset available on [Kaggle](https://www.kaggle.com/)
